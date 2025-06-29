@@ -1,0 +1,7 @@
+{
+  "model_type": "Logistic Regression",
+  "test_accuracy": 0.8898,
+  "cv_mean": 0.8846999999999999,
+  "cv_std": 0.0037927562537025707,
+  "features": 5000
+}

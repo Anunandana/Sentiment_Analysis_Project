@@ -1,0 +1,4 @@
+●​ Jupyter Notebook or JupyterLab
+●​ Python 3.8+
+●​ Libraries: pandas, numpy, scikit-learn, nltk, matplotlib, seaborn, wordcloud, plotly, ipywidgets
+●​ Dataset: IMDB Movie Reviews
